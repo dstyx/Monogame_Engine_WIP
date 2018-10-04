@@ -1,0 +1,51 @@
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\obj\x86\Debug\dstyx_lab00.csprojResolveAssemblyReference.cache
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\obj\x86\Debug\dstyx_lab00.csproj.CoreCompileInputs.cache
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\dstyx_lab00.exe
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\dstyx_lab00.pdb
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\obj\x86\Debug\dstyx_lab00.exe
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\obj\x86\Debug\dstyx_lab00.pdb
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\dstyx\source\repos\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\Content\background.xnb
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\dstyx_lab00.exe
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\dstyx_lab00.pdb
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\obj\x86\Debug\dstyx_lab00.csprojResolveAssemblyReference.cache
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\obj\x86\Debug\dstyx_lab00.exe
+C:\Users\dstyx\Documents\Visual Studio 2017\Projects\CPI311_Labs_InClass\dstyx_lab00\obj\x86\Debug\dstyx_lab00.pdb
